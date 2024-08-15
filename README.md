@@ -2,7 +2,7 @@
 
 This project is a tribute website dedicated to Atal Bihari Vajpayee, a renowned Indian statesman, poet, and former Prime Minister of India. The website provides a brief biography, notable achievements, and other significant details about his life and legacy.
 
-🔗 **[Live Demo](https://vatsshubham100.github.io/Project-2/)**
+🔗 **[Live Demo](https://vatsshubham100.github.io/Letsupgrade-assignment-D2/)**
 
 ## 📸 Screenshots
 
