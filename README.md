@@ -18,13 +18,10 @@ This project is a tribute website dedicated to Atal Bihari Vajpayee, a renowned 
 
 ## 📚 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Installation](#-installation)
 
 ## 🌟 Project Overview
 
